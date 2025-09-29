@@ -5,6 +5,6 @@ Tailwind v4 made an impactful switch to how we convert design tokens to usable c
 
 ## Contributions Welcome!
 
-We encourage contribution to make this suite of transforms and formats better!
+We encourage contributions to make this suite of transforms and formats better!
 
 
